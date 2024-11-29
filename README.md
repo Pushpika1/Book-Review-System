@@ -4,7 +4,7 @@ git clone https://github.com/Pushpika1/Book-Review-System
 
 ### **2. cd ..Book-Review-System**
 
-### **3. Create a virtual environment
+### **3. Create a virtual environment**
 
 python -m venv venv
 
@@ -23,8 +23,8 @@ python app.py
 
 ## **7. cd ..frontend**
 
-##6. Install dependencies
+## **8. Install dependencies**
 npm install
 
-##7. Run the frontend
+## **9. Run the frontend**
 npm run dev
