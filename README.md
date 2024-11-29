@@ -19,20 +19,20 @@ venv\Scripts\activate for Windows
 
 source venv/bin/activate for macOS/Linux
 
-## **5. Install python dependencies**
+### **5. Install python dependencies**
 
 pip install -r requirements.txt
 
-## **6. Run the backend**
+### **6. Run the backend**
 
 python app.py
 
-## **7. Navigate to the frontend directory**
+### **7. Navigate to the frontend directory**
 
 cd ..frontend
 
-## **8. Install dependencies**
+### **8. Install dependencies**
 npm install
 
-## **9. Run the frontend**
+### **9. Run the frontend**
 npm run dev
