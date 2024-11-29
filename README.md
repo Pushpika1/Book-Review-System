@@ -5,7 +5,9 @@ The Book Review System is a simple web app where users can share their thoughts 
 
 git clone https://github.com/Pushpika1/Book-Review-System
 
-### **2. cd ..Book-Review-System**
+### **2. Navigate to the root directory**
+
+cd ..Book-Review-System
 
 ### **3. Create a virtual environment**
 
@@ -25,7 +27,9 @@ pip install -r requirements.txt
 
 python app.py
 
-## **7. cd ..frontend**
+## **7. Navigate to the frontend directory**
+
+cd ..frontend
 
 ## **8. Install dependencies**
 npm install
