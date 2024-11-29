@@ -1,4 +1,4 @@
-The Book Review System is a simple web app where users can share their thoughts and ratings on books they’ve read. You can rate books from 1 to 5 stars, leave a detailed review, edit reviews, and even filter reviews by rating or sort them by the newest or oldest. Built with React on the front end and Flask for the backend, this app provides an easy-to-use interface for both submitting and browsing reviews.
+The Book Review System is a simple web app where users can share their thoughts and ratings on books they’ve read. You can rate books from 1 to 5 stars, leave a detailed review, edit reviews, delete reviews and even filter reviews by rating or sort them by the newest or oldest. Built with React on the front end and Flask for the backend, this app provides an easy-to-use interface for both submitting and browsing reviews of books.
 
 
 ### **1. Clone the repository**
