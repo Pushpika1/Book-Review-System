@@ -5,6 +5,7 @@ This application currently does not implement user authentication or authorizati
 Built with React and Vite on the front end, Python and Flask for the backend, and MongoDB for the database, this app lets users easily submit and browse book reviews.
 
 ![image](https://github.com/user-attachments/assets/b8c18e50-d1e6-4a34-bcc1-47d39326dd34)
+![image](https://github.com/user-attachments/assets/dd068a65-6ea7-42ba-be2b-15a49e3d8cf0)
 
 ### **1. Clone the repository**
 
