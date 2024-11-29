@@ -2,7 +2,7 @@ The Book Review System is a simple web app where users can share their thoughts 
 
 This application currently does not implement user authentication or authorization due to the time constraints and the focus on core features.
 
-Built with React on the front end and Flask for the backend, this web app provides an easy-to-use interface for both submitting and browsing reviews of books.
+Built with React and Vite on the front end, Python and Flask for the backend, and MongoDB for the database, this app lets users easily submit and browse book reviews.
 
 ![image](https://github.com/user-attachments/assets/b8c18e50-d1e6-4a34-bcc1-47d39326dd34)
 
