@@ -14,7 +14,7 @@ cd ..Book-Review-System
 
 python -m venv venv
 
-### **4. Acivate the virtual environment**
+### **4. Activate the virtual environment**
 
 venv\Scripts\activate for Windows
 
