@@ -11,6 +11,7 @@ python -m venv venv
 ### **4. Acivate the virtual environment**
 
 venv\Scripts\activate for Windows
+
 source venv/bin/activate for macOS/Linux
 
 ## **5. Install python dependencies**
